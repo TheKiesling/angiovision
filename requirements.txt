@@ -2,4 +2,6 @@ numpy
 matplotlib
 opencv-python
 scikit-image
+scikit-learn
 lama
+pandas
